@@ -1,0 +1,26 @@
+#@ 파일 시스템
+#@ cat
+#@ cd
+#@ dd
+#@ chmod
+#@ chown
+#@ chgrp
+#@ cksum
+#@ cmp
+#@ cp
+#@ du
+#@ df
+#@ fsck
+#@ fuser
+#@ ln
+#@ ls
+#@ lsof
+#@ mkdir
+#@ mount
+#@ mv
+#@ pwd
+#@ rm
+#@ rmdir
+#@ split
+#@ touch
+#@ umask
